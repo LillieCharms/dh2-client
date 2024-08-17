@@ -1,1 +1,1 @@
-../../config/config.js
+C:\Users\lilli\Documents\GitHub\dh2-client\config\config.js
