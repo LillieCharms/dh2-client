@@ -105,10 +105,10 @@ https://replay.pokemonshowdown.com/gen7randomdoublesbattle-865046831.log
 
 -->
 
-<link rel="stylesheet" href="//191.101.232.116/style/global.css?0.3825687625144649" />
-<link rel="stylesheet" href="//localhost/style/font-awesome.css?0.017156677355488537" />
-<link rel="stylesheet" href="//localhost/style/battle.css?0.15370777379793132" />
-<link rel="stylesheet" href="//localhost/style/utilichart.css?0.8892737331814675" />
+<link rel="stylesheet" href="//191.101.232.116/style/global.css?0.34976246526546384" />
+<link rel="stylesheet" href="//localhost/style/font-awesome.css?0.9299908787560809" />
+<link rel="stylesheet" href="//localhost/style/battle.css?0.950513156504533" />
+<link rel="stylesheet" href="//localhost/style/utilichart.css?0.6835024001724765" />
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26211653-1"></script>
@@ -249,17 +249,17 @@ https://replay.pokemonshowdown.com/gen7randomdoublesbattle-865046831.log
 <script defer src="//localhost/js/lib/jquery-1.11.0.min.js"></script>
 <script defer src="//localhost/js/lib/html-sanitizer-minified.js"></script>
 <script defer src="//localhost/js/battle-sound.js"></script>
-<script defer src="//localhost/js/battledata.js?0.2699259200140778"></script>
-<script defer src="//localhost/data/pokedex-mini.js?0.20758240572094455"></script>
-<script defer src="//localhost/data/pokedex-mini-bw.js?0.614569416927341"></script>
-<script defer src="//localhost/data/graphics.js?0.328430770147242"></script>
-<script defer src="//localhost/data/pokedex.js?0.7485253172332909"></script>
-<script defer src="//localhost/data/moves.js?0.5801166887570162"></script>
-<script defer src="//localhost/data/abilities.js?0.6567656412880944"></script>
-<script defer src="//localhost/data/items.js?0.4218621660774826"></script>
-<script defer src="//localhost/data/teambuilder-tables.js?0.007706255723944677"></script>
-<script defer src="//localhost/js/battle-tooltips.js?0.6751146050271162"></script>
-<script defer src="//localhost/js/battle.js?0.7325766192065302"></script>
+<script defer src="//localhost/js/battledata.js?0.7436947260989324"></script>
+<script defer src="//localhost/data/pokedex-mini.js?0.9964270398657491"></script>
+<script defer src="//localhost/data/pokedex-mini-bw.js?0.6173152772233805"></script>
+<script defer src="//localhost/data/graphics.js?0.7109540510512962"></script>
+<script defer src="//localhost/data/pokedex.js?0.08591750169567725"></script>
+<script defer src="//localhost/data/moves.js?0.948382057815014"></script>
+<script defer src="//localhost/data/abilities.js?0.30269070448919533"></script>
+<script defer src="//localhost/data/items.js?0.21489197421669215"></script>
+<script defer src="//localhost/data/teambuilder-tables.js?0.21341673138577666"></script>
+<script defer src="//localhost/js/battle-tooltips.js?0.8438489258535986"></script>
+<script defer src="//localhost/js/battle.js?0.18542572942619828"></script>
 
 <script defer src="js/utils.js?0eb91a21"></script>
 <script defer src="js/replays-battle.js?a798c858"></script>
